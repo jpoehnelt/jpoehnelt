@@ -16,6 +16,11 @@ I am active on GitHub and track some of my development activity for open source.
 I have an infrequently used blog on Medium(need to switch to GatsbyJS) with some of the latest posts below.
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate Email Bankruptcy using Apps Script](https://medium.com/@jpoehnelt/automate-email-bankruptcy-using-apps-script-167670186844?source=rss-89eb24916480------2)
+- [Secrets Sync Github Action](https://medium.com/@jpoehnelt/secrets-sync-github-action-d185963f4f3e?source=rss-89eb24916480------2)
+- [Client Library API Wrappers](https://medium.com/@jpoehnelt/client-library-api-wrappers-47c27dbfe0d3?source=rss-89eb24916480------2)
+- [SemVer: Don’t be afraid of Major Versions](https://medium.com/@jpoehnelt/semver-dont-be-afraid-of-major-versions-de352b04169e?source=rss-89eb24916480------2)
+- [A JavaScript Build Adventure Story](https://medium.com/@jpoehnelt/a-javascript-build-adventure-story-843447937073?source=rss-89eb24916480------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Follow Me
