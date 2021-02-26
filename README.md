@@ -1,7 +1,7 @@
-# Development Activity
-![jpoehnelt's github stats](https://github-readme-stats.vercel.app/api?username=jpoehnelt&show_icons=true&theme=dark&icon_color=ffffff&hide_border=true&count_private=true&hide=issues)
+# Development Stats
+![jpoehnelt's github stats](https://github-readme-stats.vercel.app/api?username=jpoehnelt&show_icons=true&&theme=nord&hide_border=true&count_private=true&hide=issues&custom_title=Github%20Stats)
 
-[![jpoehnelt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jpoehnelt&layout=compact&theme=dark&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![jpoehnelt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jpoehnelt&layout=compact&theme=nord&hide_border=true&custom_title=Other%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Blog posts
