@@ -1,4 +1,4 @@
-# Development Stats
+# Open Source Development Stats
 ![jpoehnelt's github stats](https://github-readme-stats.vercel.app/api?username=jpoehnelt&show_icons=true&&theme=nord&hide_border=true&count_private=true&hide=issues&custom_title=Github%20Stats)
 
 ![jpoehnelt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jpoehnelt&layout=compact&theme=nord&hide_border=true&custom_title=Other%20Stats)
