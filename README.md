@@ -13,7 +13,7 @@ I am active on GitHub and track some of my development activity for open source.
 ![jpoehnelt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jpoehnelt&layout=compact&theme=nord&hide_border=true&custom_title=Other%20Stats)
 
 ## Blog posts
-I have a infrequently used blog on Medium(need to switch to GatsbyJS) with some of the latest posts below.
+I have an infrequently used blog on Medium(need to switch to GatsbyJS) with some of the latest posts below.
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
