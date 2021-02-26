@@ -1,9 +1,8 @@
 # Development Activity
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+![jpoehnelt's github stats](https://github-readme-stats.vercel.app/api?username=jpoehnelt&show_icons=true&theme=dark&icon_color=ffffff&hide_border=true&count_private=true&hide=issues)
+
+[![jpoehnelt's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jpoehnelt&layout=compact&theme=dark&icon_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
