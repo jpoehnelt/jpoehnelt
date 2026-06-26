@@ -1,15 +1,11 @@
 # Hi, I'm Justin 👋
 
-I build tools for developers and AI agents. Currently a **Senior Developer Relations Engineer** at Google, where I created [**googleworkspace/cli**](https://github.com/googleworkspace/cli) — a Rust CLI and MCP server for Google Workspace with 21k+ stars.
+I build tools for developers and AI agents. 
 
-Previously: [Descartes Labs](https://www.descarteslabs.com/) (petabyte-scale satellite imagery pipelines) and [USGS](https://www.usgs.gov/) (NASA-funded cropland mapping with ML).
+Previously: 
 
-## What I'm working on
-
-- 🤖 **Agent-first tooling** — Designing CLIs and MCP servers that work for AI agents, not just humans
-- 📦 **Open source at scale** — Maintaining packages with 12M+ combined weekly npm downloads
-- 🦀 **Rust** — From CLI tools to embedded firmware
-- ✍️ **Writing** — [The MCP Abstraction Tax](https://justin.poehnelt.com/posts/mcp-abstraction-tax/) ∙ [Rewrite Your CLI for AI Agents](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/) ∙ [Fiction AST & NER with GLiNER](https://justin.poehnelt.com/posts/building-a-fiction-ast-training-ner-gliner-onnx/)
+- **Senior Developer Relations Engineer** at Google, where I created [**googleworkspace/cli**](https://github.com/googleworkspace/cli) — a Rust CLI and MCP server for Google Workspace with 21k+ stars. Required reading: https://x.com/JPoehnelt/status/2069482265953087602
+- [Descartes Labs](https://www.descarteslabs.com/) (petabyte-scale satellite imagery pipelines) and [USGS](https://www.usgs.gov/) (NASA-funded cropland mapping with ML).
 
 
 ## Publications
