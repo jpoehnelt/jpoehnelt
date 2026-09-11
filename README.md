@@ -29,3 +29,7 @@ Before that:
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/jpoehnelt)
 
 See my [jpoehnelt-bot](https://github.com/jpoehnelt-bot) GitHub profile.
+
+## Contact
+
+📧 justin.poehnelt@gmail.com — happy to talk AI agents, DevRel, or ultrarunning.
