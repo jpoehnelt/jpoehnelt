@@ -18,6 +18,8 @@ Before that:
 
 ## Publications
 
+📚 [Google Scholar](https://scholar.google.com/citations?user=SvE7lhsAAAAJ&hl=en)
+
 - [Visual search over billions of aerial and satellite images](https://arxiv.org/abs/2002.02624) — *Computer Vision and Image Understanding*, 2020
 - [Automated cropland mapping of continental Africa](https://doi.org/10.1016/j.isprsjprs.2017.01.019) — *ISPRS Journal*, 2017
 
