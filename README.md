@@ -32,6 +32,14 @@ Before that:
 
 See my [jpoehnelt-bot](https://github.com/jpoehnelt-bot) GitHub profile.
 
+## Blog
+
+- [Triaging Gmail with Claude Subagents](https://justin.poehnelt.com/posts/triage-gmail-with-subagents/)
+- [Your App Should Ship an MCP Server](https://justin.poehnelt.com/posts/ship-mcp-server-native-app/)
+- [The MCP Abstraction Tax](https://justin.poehnelt.com/posts/mcp-abstraction-tax/)
+- [You Need to Rewrite Your CLI for AI Agents](https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/)
+- [Agent Identity for Git Commits](https://justin.poehnelt.com/posts/agent-identity-git-commits/)
+
 ## Contact
 
 📧 justin.poehnelt@gmail.com — happy to talk AI agents, DevRel, or ultrarunning.
