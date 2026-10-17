@@ -8,7 +8,7 @@ I lead the core build: bitemporal graph architecture, verification systems, MCP 
 
 ## Previously
 
-I created [googleworkspace/cli](https://github.com/googleworkspace/cli), a Rust CLI and MCP server for Google Workspace. [Google fired me in April 2026](https://x.com/JPoehnelt/status/2069482265953087602).
+I created [googleworkspace/cli](https://github.com/googleworkspace/cli), a Rust CLI and MCP server for Google Workspace (31k+ GitHub stars, #1 on Hacker News). [Google fired me in April 2026](https://x.com/JPoehnelt/status/2069482265953087602).
 
 Before that:
 
